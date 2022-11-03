@@ -1,4 +1,4 @@
-<font color=OrangeRed size=72>Инструкция по работе с GIT</font>
+# Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
 
